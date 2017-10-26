@@ -1,7 +1,7 @@
 `   `</p>
 `yum install wget`</p>
 `yum install unzip`</p>
-`wget https://github.com/aihoom/SFORWEB/archive/master.zip`</p>
+`wget https://github.com/fanyuanqi/SFORWEB/archive/master.zip`</p>
 `unzip master.zip`</p>
 `chmod -R 777 SFORWEB-master`</p>
 `cd SFORWEB-master`</p>
