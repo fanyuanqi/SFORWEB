@@ -101,7 +101,7 @@ html = '''
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p>Copyright © FunctionClub. All rights reserved.</p>
+        <p>作者：FunctionClub. 本版本维护者blog.bebove.com</p>
       </div>
     </div>
   </div>
