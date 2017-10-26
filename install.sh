@@ -150,7 +150,9 @@ service caddy start
     echo "/etc/rc.d/init.d/bootsweb" >> /etc/rc.d/rc.local
     chmod +x /etc/rc.d/rc.local
 fi
-
+chmod -R 777 /usr/local/SWEB
+chmod -R 777 /usr/lib/w3m
+chmod -R 777 /usr/local/lib/python2.7
 #Install OK
 echo "Install Finished!"
 echo ''
