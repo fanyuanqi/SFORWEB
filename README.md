@@ -1,13 +1,13 @@
 `   `</p>
-`yum install wget`
-`yum install unzip`
-`wget https://github.com/aihoom/SFORWEB/archive/master.zip`
-`unzip master.zip`
-`chmod -R 777 SFORWEB-master`
-`cd SFORWEB-master`
-`cp /etc/localtime /etc/localtime.bak`
-`ln -svf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime`
-`bash install.sh`
+`yum install wget`</p>
+`yum install unzip`</p>
+`wget https://github.com/aihoom/SFORWEB/archive/master.zip`</p>
+`unzip master.zip`</p>
+`chmod -R 777 SFORWEB-master`</p>
+`cd SFORWEB-master`</p>
+`cp /etc/localtime /etc/localtime.bak`</p>
+`ln -svf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime`</p>
+`bash install.sh`</p></p>
 
 
 
