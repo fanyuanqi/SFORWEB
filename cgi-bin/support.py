@@ -64,7 +64,7 @@ html='''
 <!-- HEADER --><!-- / HEADER --> 
 
 <div class="container-fluid">
-	<div class="alert alert-info" style="padding: 8px 35px 8px 14px; background-color: rgb(217, 237, 247); border: 1px solid rgb(188, 232, 241); color: rgb(58, 135, 173);"> <strong>感谢：</strong><br> 非常感谢你能点开这个页面。这里的每一分钱的赞助都将是激励我继续前进的动力。<br><br>
+	<div class="alert alert-info" style="padding: 8px 35px 8px 14px; background-color: rgb(217, 237, 247); border: 1px solid rgb(188, 232, 241); color: rgb(58, 135, 173);"> <strong>(此处赞助信息均为原作者的信息，bebove未作修改，发生任何事宜与维护者bebove无关：)感谢：</strong><br> 非常感谢你能点开这个页面。这里的每一分钱的赞助都将是激励我继续前进的动力。<br><br>
     <strong>支持以下方式：</strong><br><br>
      <div class="panel panel-default">
 		<div class="panel-heading" >
