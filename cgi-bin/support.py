@@ -95,7 +95,7 @@ html='''
 		<div id="collapseFour" class="panel-collapse collapse">
 			<div class="panel-body" align="center">
 			<strong>欢迎走我的AFF购买以下产品，允许我拿一些回扣。嘻嘻嘻</strong><br><br>
-				<a href="https://www.tizipu.net/aff.php?aff=46"><img src="https://cdn.ylws.me/tizipu.png"></a><br><br>
+				<br>
 				<a href="http://www.vultr.com/?ref=6985881"><img src="https://cdn.ylws.me/vultr.png"></a>
 			</div>
 		</div>
